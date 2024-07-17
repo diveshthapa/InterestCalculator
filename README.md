@@ -1,7 +1,7 @@
 # InterestCalculator
 An android application for basic Interest Calculation.
 This application is made in 
-* Android studio using Java, XMl as frontend
+* Android studio using Java, XML as frontend
 * Firebase as backend and database.
 
 ## What you can do :
