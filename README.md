@@ -10,3 +10,8 @@ This application is made in
 * Time
 * Rate
 * Amount
+
+## Some of Screenshots :
+SimpleCalc                 |     SimpleCalc2
+:-------------------------: | :-------------------------:
+![simpleCalc](https://raw.githubusercontent.com/diveshthapa/InterestCalculator/main/images/SimpleCalc.jpg) | ![SimpleCalc2](https://raw.githubusercontent.com/diveshthapa/InterestCalculator/main/images/SimpleCalc%202.jpg)
